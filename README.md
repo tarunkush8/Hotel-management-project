@@ -1,2 +1,2 @@
 # Hotel-management-project
-This project is the networking project for Hotel area network simulation.
+This project is the networking project for Hotel area network simulation focuses on designing a high-performance, secure, and scalable network infrastructure for a hotel using Cisco Packet Tracer. The network is optimized to support hotel operations, staff communication, guest services, and internet access while maintaining robust security and efficient resource allocation.
